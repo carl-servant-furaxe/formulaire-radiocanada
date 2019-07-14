@@ -153,12 +153,21 @@ Mais dans le cas d'un changement de nom, s'assurer que le fichier existe sur le 
 ## Livrer le travail
 Il est important de livrer le formulaire le plus vite possible. C'est surtout par respect pour l'equipe Radio-Canada qui doit effectuer du travail sur le code une fois recu. Envoyer 1-2 jours avant la date de lancement du concours ou si possible, plus tot.
 
-Le projet doit etre zippe et attache au courriel. 
+***Retirer les fichiers "etat_" du projet si vous ne les utilisez pas***
+
+Le projet doit etre zippe et attache au courriel.
 
 *NOTE: Eviter d'ajouter des fichiers JS dans le formulaire. Si un de ces fichiers se retrouve dans le zip, il se pourrait que les filtres anti-spam de Radio-Canada refuse le courriel. Il faut donc rester avec HTML et CSS seulement. Sinon, utilisez Wetransfer pour livrer le travail.*
+
 
 Les courriels a inclure sont:
 - ginette.delage@radio-canada.ca (personne responsable des formulaires)
 - studionumerique@radio-canada.ca (equipe de soutien si Ginette n'est pas disponible)
 - info@furaxe.qc.ca (Stefan a mettre en CC dans toutes les communications)
 - courriel de la chargee de projet
+
+
+
+# Autre pages "etat_" de ce projet
+Les pages "etat_" sont des pages que nous avons fait pour repondre a des demandes speciales.
+Ces pages seront donc a votre disposition si jamais vous en avez besoin.
